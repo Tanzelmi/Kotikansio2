@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "6_C_Perus_Kolmion_pinta-ala/1.0.0": {
+        "runtime": {
+          "6_C_Perus_Kolmion_pinta-ala.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6_C_Perus_Kolmion_pinta-ala/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

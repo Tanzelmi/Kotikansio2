@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.exe
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.deps.json
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.runtimeconfig.json
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.dll
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\ref\15 C Valinta Luvun arvaus.dll
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\bin\Debug\net5.0\15 C Valinta Luvun arvaus.pdb
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.dll
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\ref\15 C Valinta Luvun arvaus.dll
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.pdb
+C:\Users\Omistaja\source\repos\15 C Valinta Luvun arvaus\15 C Valinta Luvun arvaus\obj\Debug\net5.0\15 C Valinta Luvun arvaus.genruntimeconfig.cache

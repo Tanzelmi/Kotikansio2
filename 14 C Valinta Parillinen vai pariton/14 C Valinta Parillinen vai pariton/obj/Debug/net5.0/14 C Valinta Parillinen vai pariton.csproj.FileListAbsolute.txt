@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.exe
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.deps.json
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.runtimeconfig.json
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.dll
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\ref\14 C Valinta Parillinen vai pariton.dll
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\bin\Debug\net5.0\14 C Valinta Parillinen vai pariton.pdb
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.dll
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\ref\14 C Valinta Parillinen vai pariton.dll
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.pdb
+C:\Users\Omistaja\source\repos\14 C Valinta Parillinen vai pariton\14 C Valinta Parillinen vai pariton\obj\Debug\net5.0\14 C Valinta Parillinen vai pariton.genruntimeconfig.cache

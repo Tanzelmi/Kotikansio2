@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.exe
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.deps.json
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.runtimeconfig.json
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.dll
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\ref\26 C Toisto Tulosta luvut.dll
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\bin\Debug\net5.0\26 C Toisto Tulosta luvut.pdb
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.dll
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\ref\26 C Toisto Tulosta luvut.dll
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.pdb
+C:\Users\Omistaja\source\repos\26 C Toisto Tulosta luvut\26 C Toisto Tulosta luvut\obj\Debug\net5.0\26 C Toisto Tulosta luvut.genruntimeconfig.cache

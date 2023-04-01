@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.exe
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.deps.json
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.runtimeconfig.json
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.dll
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\ref\19 C Valinta Lämpötila muunnin.dll
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\bin\Debug\net5.0\19 C Valinta Lämpötila muunnin.pdb
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.dll
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\ref\19 C Valinta Lämpötila muunnin.dll
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.pdb
+C:\Users\Omistaja\source\repos\19 C Valinta Lämpötila muunnin\19 C Valinta Lämpötila muunnin\obj\Debug\net5.0\19 C Valinta Lämpötila muunnin.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "14 C Valinta Parillinen vai pariton/1.0.0": {
+        "runtime": {
+          "14 C Valinta Parillinen vai pariton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14 C Valinta Parillinen vai pariton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

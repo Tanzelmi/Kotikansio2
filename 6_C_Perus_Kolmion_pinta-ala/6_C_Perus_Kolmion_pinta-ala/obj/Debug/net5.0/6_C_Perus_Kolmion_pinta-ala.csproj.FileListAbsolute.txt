@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.exe
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.deps.json
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.runtimeconfig.json
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.dll
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\ref\6_C_Perus_Kolmion_pinta-ala.dll
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\bin\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.pdb
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.dll
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\ref\6_C_Perus_Kolmion_pinta-ala.dll
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.pdb
+C:\Users\Omistaja\source\repos\6_C_Perus_Kolmion_pinta-ala\6_C_Perus_Kolmion_pinta-ala\obj\Debug\net5.0\6_C_Perus_Kolmion_pinta-ala.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.exe
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.deps.json
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.runtimeconfig.json
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.dll
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\ref\12 C Valinta Iän tarkistus.dll
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\bin\Debug\net5.0\12 C Valinta Iän tarkistus.pdb
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.dll
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\ref\12 C Valinta Iän tarkistus.dll
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.pdb
+C:\Users\Omistaja\source\repos\12 C Valinta Iän tarkistus\12 C Valinta Iän tarkistus\obj\Debug\net5.0\12 C Valinta Iän tarkistus.genruntimeconfig.cache

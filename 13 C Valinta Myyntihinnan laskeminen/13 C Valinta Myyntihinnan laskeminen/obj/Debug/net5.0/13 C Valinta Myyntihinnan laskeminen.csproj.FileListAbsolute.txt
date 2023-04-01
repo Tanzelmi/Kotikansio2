@@ -1,0 +1,15 @@
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.exe
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.deps.json
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.runtimeconfig.json
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.dll
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\ref\13 C Valinta Myyntihinnan laskeminen.dll
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\bin\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.pdb
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.dll
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\ref\13 C Valinta Myyntihinnan laskeminen.dll
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.pdb
+C:\Users\Omistaja\source\repos\13 C Valinta Myyntihinnan laskeminen\13 C Valinta Myyntihinnan laskeminen\obj\Debug\net5.0\13 C Valinta Myyntihinnan laskeminen.genruntimeconfig.cache

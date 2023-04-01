@@ -1,0 +1,16 @@
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.exe
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.deps.json
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.runtimeconfig.json
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.runtimeconfig.dev.json
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.dll
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\ref\5CPerus_Keskiarvo.dll
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\bin\Debug\net5.0\5CPerus_Keskiarvo.pdb
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.csproj.AssemblyReference.cache
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.AssemblyInfoInputs.cache
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.AssemblyInfo.cs
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.dll
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\ref\5CPerus_Keskiarvo.dll
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.pdb
+C:\Users\Omistaja\source\repos\5CPerus_Keskiarvo\5CPerus_Keskiarvo\obj\Debug\net5.0\5CPerus_Keskiarvo.genruntimeconfig.cache
